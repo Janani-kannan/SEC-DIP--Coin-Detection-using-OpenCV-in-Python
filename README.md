@@ -47,7 +47,7 @@ def present_results(original_image, processed_image):
 
 # --- Main Execution ---
 
-image = cv2.imread("C:\\Users\\admin\\Downloads\\horse.jpg")
+image = cv2.imread("C:\\Users\\admin\\Downloads\\OIP.jpg")
 
 if image is None:
     print("Error: Image not found. Check the file path.")
@@ -58,7 +58,7 @@ else:
 ```
 ## OUTPUT:
 
-<img width="1005" height="316" alt="image" src="https://github.com/user-attachments/assets/898bec80-aee8-466f-a2dd-c228eeb40692" />
+<img width="969" height="476" alt="image" src="https://github.com/user-attachments/assets/e557001a-e109-4107-b22c-3f329cd0b88d" />
 
 ## RESULT :
 Thus the program to detect the edges was executed successfully.
